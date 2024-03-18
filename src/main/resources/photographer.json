@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "fistName": "Mark",
+    "lastName": "David",
+    "eventType": "WEDDING",
+    "address": {
+      "city": "San Jose",
+      "state": "California",
+      "pinCode": "1234"
+    }
+  },
+  {
+    "id": "2",
+    "fistName": "Nick",
+    "lastName": "White",
+    "eventType": "WEDDING",
+    "address": {
+      "city": "Santa Clara",
+      "state": "California",
+      "pinCode": "2345"
+    }
+  },
+  {
+    "id": "3",
+    "fistName": "Celina",
+    "lastName": "Gomz",
+    "eventType": "BIRTHDAYS",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pinCode": "1235"
+    }
+  },
+  {
+    "id": "4",
+    "fistName": "Catalina",
+    "lastName": "Rush",
+    "eventType": "BIRTHDAYS",
+    "address": {
+      "city": "Cupertino",
+      "state": "California",
+      "pinCode": "1435"
+    }
+  }
+]
